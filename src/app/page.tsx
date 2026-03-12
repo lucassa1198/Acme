@@ -1,3 +1,7 @@
 export default function Page() {
-  return "Sistema em construção.";
+  return (
+    <main>
+    <h1 className="font-black">Sistema em construção.</h1>
+    </main>
+  );
 }
